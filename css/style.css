@@ -14,7 +14,7 @@ body{
     background-color: #222;
     height: 100vh; /* Висота на весь екран */
     margin: 0;
-    background: url("/LoginFile2/img/nature1.jpg") no-repeat;
+    background: url("../img/nature1.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
